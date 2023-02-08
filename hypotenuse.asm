@@ -1,7 +1,6 @@
 ;****************************************************************************************************************************
-;Program name: "Pythagoras Hypotenuse Calculator".  This program takes 2 legs of a triangle and calculates the hypotenuse.  *
-;The input and calculations are done in X86, and the hypotenuse is returned to C++ as a floating point value.               *
-;Copyright (C) 2023  Leo Hyodo                                                                *
+;Program name: "Fast Pythagoras Calculator".  This program takes 2 legs of a triangle and calculates the hypotenuse in  
+;assembly.  Copyright (C) 2023  Leo Hyodo                                                                                   *
 ;This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License  *
 ;version 3 as published by the Free Software Foundation.                                                                    *
 ;This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied         *
